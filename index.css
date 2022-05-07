@@ -1,0 +1,12 @@
+.item{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    
+
+}
+.item:hover{
+    width: 300px;
+    background-color: blue;
+    animation: 3s linear;
+}
